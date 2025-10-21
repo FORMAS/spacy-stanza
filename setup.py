@@ -22,7 +22,7 @@ def setup_package():
         readme = f.read()
 
     setup(
-        name="spacy-stanza",
+        name="formas-spacy-stanza",
         description=about["__summary__"],
         long_description=readme,
         long_description_content_type="text/markdown",
